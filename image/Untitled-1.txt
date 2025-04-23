@@ -1,0 +1,47 @@
+<h2 style="color:white;background-color:darkblue;"> College of Science and Technology Computer Labs</h2>
+    <img src="graphic.jpg" alt="Images" style="width:460px;height:350px;">
+    <img src="IT-center.jpg" alt="Images" style="width:460px;height:350px;">
+    <img src="Networking.jpg" alt="Images" style="width:460px;height:350px;">
+    <head>
+        <style>
+            table,
+            th,
+            td {
+                border: 1px solid blue;
+            }
+        </style>
+    </head>
+    <table style="width:100%; border-color:ebf5fb;">
+        
+        <caption>Computer Labs University of Cambodia</caption>
+        <tr>
+            <th>Multimedia Lab</th>
+            <th>E-learning Lab</th>
+            <th>Networkinng Lab</th>
+            <th>IT-Center Lab</th>
+        </tr>
+        <tr>
+            <td rowspan-"1">Graphic Design</td>
+            <td>Graphic Design</td>
+            <td>Networking Design</td>
+            <td>Compuuter Applicationns</td>
+        </tr>
+        <tr>
+            <td>Computer Appliications</td>
+            <td>Produce Videos Content</td>
+            <td>Web Development</td>
+            <td>Computer Programming
+        </tr>
+        <tr>
+            <td>Mobile Application</td>
+            <td>Computer Application</td>
+            <td>Network Security</td>
+            <td>Database Development</td>
+        </tr>
+    </table>
+</body>
+<footer>
+    <img src="icon.jpg" width="30" height="30">
+    Copyright @ 2025 UC; College Science and Technology.
+
+</footer>
